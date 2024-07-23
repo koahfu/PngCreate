@@ -13,7 +13,7 @@ GhostScript is needed for the save button, pip need for additions and pillow for
 
 # Требования/Requirements
 | Python | pip | pillow |
-|:------------- |:---------------|:-----------------|:-----------------|
+|:------------- |:---------------|:-----------------|
 | Без него не запуститься приложение | Без него не работало приложение правильно | Без него редактор не работал |
 | Without it the application will not start | Without it the application would not work correctly | The editor wouldn't work without it |
 
